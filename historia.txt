@@ -9,5 +9,9 @@ esta es
 
 Felipe tiene 28 años
 
+<<<<<<< HEAD
 y vive en Colombia 
 >>>>>>> b60b008cdd18560c01844c8587c6cd37c7d02cac
+=======
+y vive en Colombia y es feliz
+>>>>>>> 518934cfda08eb06d74798231c268ef0f6b0ab47
